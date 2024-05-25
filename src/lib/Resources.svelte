@@ -7,8 +7,8 @@ import { dynasty } from './utils/helper';
         {
             name: "Lakeview Pod",
             url: "https://open.spotify.com/show/2Z7JStI0qmhbx8fW4sIkOI?si=3d45a7adb3c14302l",
-            icon: "insights",
-            premium: true,
+            icon: "podcasts",
+            premium: false,
             separator: true,
         }, 
         {
