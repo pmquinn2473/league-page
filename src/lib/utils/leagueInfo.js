@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Dynasty League Founded in 2023</p>
-  <p>Phillips, Lakes, Altmires, Quinns, and Steffens all trying to be the very best</p> 
+  <p>Phillips, Lakes, Altmires, Quinns, Steffens, and McAloons all trying to be the very best</p> 
   <p>Like no one ever was</p>
   <p></p> 
   <p></p>
@@ -111,7 +111,7 @@ export const managers = [
       "bio": "Put something here eventually",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Indigestion", // Can be anything (usually your rival's name)
