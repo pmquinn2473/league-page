@@ -108,7 +108,7 @@ export const managers = [
 //       "name": "Michael Lake",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Riley's House, New Jersey", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -133,7 +133,7 @@ export const managers = [
 //       "name": "Kevin Lake",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Maryland", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -158,7 +158,7 @@ export const managers = [
 //       "name": "Michael Phillips",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -183,7 +183,7 @@ export const managers = [
 //       "name": "John Altmire",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -208,7 +208,7 @@ export const managers = [
 //       "name": "Brian McAloon",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -233,7 +233,7 @@ export const managers = [
 //       "name": "Paul Quinn",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -258,7 +258,7 @@ export const managers = [
 //       "name": "NickAltmire",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "tb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -283,7 +283,7 @@ export const managers = [
 //       "name": "EdwardAltmire",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -308,7 +308,7 @@ export const managers = [
 //       "name": "Bob Phillips",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -333,7 +333,7 @@ export const managers = [
 //       "name": "Katey Phillips",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -358,7 +358,7 @@ export const managers = [
 //       "name": "Mr. Pallone",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -383,7 +383,7 @@ export const managers = [
 //       "name": "John Phillips",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -408,7 +408,7 @@ export const managers = [
 //       "name": "Ed Quinn",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "Pennsylvania", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -433,7 +433,7 @@ export const managers = [
 //       "name": "Ryan Steffen",
 // //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": "New Jersey", // (optional)
-//       "bio": "Put something here eventually",
+//       "bio": "Coming Soon...",
 //       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
 //       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
 //       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -458,7 +458,7 @@ export const managers = [
       "name": "Mike Lake",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New Jersey", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/mLake.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -483,7 +483,7 @@ export const managers = [
       "name": "Kevin Lake",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Kevin Lake", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/kLake.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -508,7 +508,7 @@ export const managers = [
       "name": "John Phillips",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Pennsylvania", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/jPhillips.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -533,7 +533,7 @@ export const managers = [
       "name": "Bob Phillips",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Pittsburgh", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/bPhillips.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -558,7 +558,7 @@ export const managers = [
       "name": "Gil",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "United States", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/gil.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -583,7 +583,7 @@ export const managers = [
       "name": "Jason Slutsky",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New Jersey", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/jSlutsky.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -608,7 +608,7 @@ export const managers = [
       "name": "Brian McAloon",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lansdale", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/bMcaloon.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -633,7 +633,7 @@ export const managers = [
       "name": "Mike Sauter",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New Jersey", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/mSauter.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -658,7 +658,7 @@ export const managers = [
       "name": "Byron",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "United States", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/byron.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -683,7 +683,7 @@ export const managers = [
       "name": "Paul Quinn",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New Jersey", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/pQuinn.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -708,7 +708,7 @@ export const managers = [
       "name": "Paul Prendergast",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "DC", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/pPrendergast.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -734,7 +734,7 @@ export const managers = [
       "name": "Matt Murphy",
 //      "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "United States", // (optional)
-      "bio": "Put something here eventually",
+      "bio": "Coming Soon...",
       "photo": "/managers/mMurphy.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
