@@ -171,7 +171,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -196,7 +196,7 @@ export const managers = [
 //       "favoritePlayer": 9508, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 7, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -246,7 +246,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -321,7 +321,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -346,7 +346,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -371,7 +371,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -396,7 +396,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -421,7 +421,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -446,7 +446,7 @@ export const managers = [
 //       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
 //       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-//       "philosophy": "Mike doesn't share food", // (optional)
+//       "philosophy": "Coming Soon...", // (optional)
 //       "tradingScale": 4, // 1 - 10 (optional)
 // //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 //     },
@@ -471,7 +471,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -496,7 +496,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -521,7 +521,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -546,7 +546,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -571,7 +571,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -596,7 +596,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -621,7 +621,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -646,7 +646,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -671,7 +671,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -696,7 +696,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -721,7 +721,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -747,7 +747,7 @@ export const managers = [
       "favoritePlayer": 6904, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Mike doesn't share food", // (optional)
+      "philosophy": "Coming Soon...", // (optional)
       "tradingScale": 4, // 1 - 10 (optional)
 //      "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
